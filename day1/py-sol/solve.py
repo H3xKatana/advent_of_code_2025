@@ -2,7 +2,7 @@
 dial = 50 
 rotations = []
 password = 0 
-with open("input.aoc") as f : 
+with open("input.txt") as f : 
     for line in f :
         rotations.append(line.strip())
         

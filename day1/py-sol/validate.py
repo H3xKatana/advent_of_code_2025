@@ -2,7 +2,7 @@
 dial = 50 
 rotations = []
 password = 0 
-with open("validate.aoc") as f : 
+with open("validate.txt") as f : 
     for line in f :
         rotations.append(line.strip())
         

@@ -1,6 +1,6 @@
 [project]
 name = "advent-of-code"
-version = "v.25"
+version = "v25"
 description = "solving advent of code 25"
 readme = "README.md"
 requires-python = ">=3.12"
